@@ -6,3 +6,5 @@ numpy
 notebook
 missingno
 shap
+dice-ml
+streamlit
